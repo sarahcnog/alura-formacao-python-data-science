@@ -14,11 +14,12 @@ Foram 9 cursos em cerca de 86h de aprendizado. Link: https://cursos.alura.com.br
 * Curso - Corretor Ortográfico em Python: aplicando técnicas de NLP
 * Curso - Scraping com Python: coleta de dados na web
 
-### Projetos desenvolvidos:
-
-* Projeto: 
-* Projeto: 
-
 ### Notebooks de estudo:
 
-* 
+* Python para Data Science
+* NumPy
+* Pandas
+* Pandas - Formatos de importação e exportação
+* Data Visualization
+* Time Series
+* Jupyter e tratamento de dados
