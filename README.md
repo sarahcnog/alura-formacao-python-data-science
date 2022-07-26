@@ -23,3 +23,6 @@ Foram 9 cursos em cerca de 86h de aprendizado. Link: https://cursos.alura.com.br
 * Data Visualization
 * Time Series
 * Jupyter e tratamento de dados
+
+### Projetos: 
+* Corretor textual
